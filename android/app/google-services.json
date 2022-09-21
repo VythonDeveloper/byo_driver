@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "469273282029",
+    "project_id": "book-your-own",
+    "storage_bucket": "book-your-own.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469273282029:android:07587dff081443009793e4",
+        "android_client_info": {
+          "package_name": "com.vython.book_your_own"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469273282029-nc1f3uakdc5ak7hrvo5lrv88s1b6v8qe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlKfw8XJp2L94nlmch0vsZhYUKadQR3ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469273282029-nc1f3uakdc5ak7hrvo5lrv88s1b6v8qe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469273282029:android:6d7a0cd352517ac69793e4",
+        "android_client_info": {
+          "package_name": "com.vython.byo.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469273282029-nc1f3uakdc5ak7hrvo5lrv88s1b6v8qe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlKfw8XJp2L94nlmch0vsZhYUKadQR3ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469273282029-nc1f3uakdc5ak7hrvo5lrv88s1b6v8qe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
